@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:I[9630,[],""]
+5:I[1380,[],""]
+a:"static/chunks/825-1a8f209f3ada760f.js"
+b:"static/chunks/app/(site)/login/page-a37c00a201100cbb.js"
+c:I[5587,["825","$a","187","$b"],""]
+d:I[887,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[887,[],"$11"]
+13:"MetadataBoundary"
+14:I[887,[],"$13"]
+15:I[214,[],"IconMark"]
+:HL["/cheshire-grooming-demo/_next/static/css/31c6d852e4e499bc.css","style"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"SimplePage_page__YeC9q","children":[["$","h1",null,{"className":"SimplePage_title__SpILS","children":"Демонстрация «Чешира»"}],["$","p",null,{"className":"SimplePage_lead__snTxj","children":"В этой версии личный кабинет недоступен."}],["$","$Lc",null,{"href":"/","children":"Вернуться на главную"}]]}],[["$","link","0",{"rel":"stylesheet","href":"/cheshire-grooming-demo/_next/static/css/31c6d852e4e499bc.css","precedence":"next"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$8"}}]]
+2:[["children",{"s":"login","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":"(site)","h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#4b3bb0"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Груминг-салон «Чешир» — груминг для кошек и собак в Москве"}],["$","meta","1",{"name":"description","content":"Стрижки, комплексный уход и гигиена для кошек и собак в салоне в Москве. Мастер заранее узнаёт характер питомца, после визита вы получаете фото и рекомендации по уходу. Первый визит — скидка 15%."}],["$","meta","2",{"name":"application-name","content":"Чешир"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"name":"googlebot","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://veronica-dm.github.io/cheshire-grooming-demo/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"Груминг-салон «Чешир» — груминг для кошек и собак в Москве"}],["$","meta","8",{"property":"og:description","content":"Стрижки, комплексный уход и гигиена для кошек и собак в салоне в Москве. Мастер заранее узнаёт характер питомца, после визита вы получаете фото и рекомендации по уходу. Первый визит — скидка 15%."}],["$","meta","9",{"property":"og:url","content":"https://veronica-dm.github.io/cheshire-grooming-demo/"}],["$","meta","10",{"property":"og:site_name","content":"Груминг-салон «Чешир»"}],["$","meta","11",{"property":"og:locale","content":"ru_RU"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Груминг-салон «Чешир» — груминг для кошек и собак в Москве"}],["$","meta","15",{"name":"twitter:description","content":"Стрижки, комплексный уход и гигиена для кошек и собак в салоне в Москве. Мастер заранее узнаёт характер питомца, после визита вы получаете фото и рекомендации по уходу. Первый визит — скидка 15%."}],["$","link","16",{"rel":"icon","href":"/cheshire-grooming-demo/favicon.ico?c926d87d043886a4","type":"image/x-icon","sizes":"16x16"}],["$","link","17",{"rel":"icon","href":"/cheshire-grooming-demo/icon.svg?342bb2d2f1c940f5","type":"image/svg+xml","sizes":"any"}],["$","link","18",{"rel":"apple-touch-icon","href":"/cheshire-grooming-demo/apple-icon.png?08b30e3045eebc2c","type":"image/png","sizes":"180x180"}],["$","$L15","19",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"sryckK2AkIsF3ZPXRU9be"}
+f:null
+18:true
+8:300
+8:C
+17:0
+6:"$undefined"
+16:"$undefined"
+10:"$undefined"
